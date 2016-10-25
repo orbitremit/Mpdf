@@ -1,4 +1,5 @@
 {
     "name": "orbitremit/mpdf",
-    "description": "Mpdf plugin for generating pdfs"
+    "description": "Mpdf plugin for generating pdfs",
+    "type": "cakephp-plugin"
 }
